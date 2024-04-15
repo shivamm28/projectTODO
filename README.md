@@ -1,2 +1,3 @@
-# projectTODO
-a todo application that is used to log daily tasks and uses the redux state management library.
+#todo react app
+
+kindly download this repo and run in in your local environment to see its functionality.
